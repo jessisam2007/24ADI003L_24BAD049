@@ -25,6 +25,9 @@ The dataset for this project is taken from **Kaggle**:
 **E-commerce Dataset**  
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
+## code 
+
+
 ##  Output
 
 ### Output 1
@@ -34,3 +37,23 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 ![Scenario 1 Output 2](https://github.com/jessisam2007/24ADI003L_24BAD049/blob/ecb1d2166dc2a25f0cc5d82650b935a74ef80f9b/SCENARIO%202%20OUTPUT/87d0e04f-6aa5-47e4-8022-73f0b886c5d8.jpg)
 
 # Scenario 3
+
+##  Dataset Used
+The dataset for this project is taken from **Kaggle**:
+
+**E-commerce Dataset**  
+https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
+
+## code 
+
+
+##  Output
+
+### Output 1
+![Scenario 1 Output 1](https://github.com/jessisam2007/24ADI003L_24BAD049/blob/ea82c4c0d450c190f48cd698f6915f08f04531dc/SCENARIO%203%20OUTPUT/90541c56-7f66-4f05-8676-565cff2ca2b9.jpg)
+
+### Output 2
+![Scenario 1 Output 2](https://github.com/jessisam2007/24ADI003L_24BAD049/blob/ea82c4c0d450c190f48cd698f6915f08f04531dc/SCENARIO%203%20OUTPUT/f35e4341-a8d5-4f76-81fe-0f3421a53f9a.jpg)
+
+# Scenario 4
+
