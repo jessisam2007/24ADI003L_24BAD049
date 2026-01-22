@@ -45,7 +45,7 @@ The dataset for this project is taken from **Kaggle**:
 https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
 
 ## code 
-
+https://github.com/jessisam2007/24ADI003L_24BAD049/blob/5ea244d200b753ec732da5cfc1298f4660cec07d/SCENARIO%203.py
 
 ##  Output
 
