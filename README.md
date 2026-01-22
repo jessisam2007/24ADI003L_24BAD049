@@ -26,7 +26,7 @@ The dataset for this project is taken from **Kaggle**:
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 ## code 
-
+https://github.com/jessisam2007/24ADI003L_24BAD049/blob/e4005afcfc96d4bb302821feeedc5fe17ea665e7/SCENARIO%202.py
 
 ##  Output
 
