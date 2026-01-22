@@ -7,7 +7,7 @@ The dataset for this project is taken from *Kaggle*:
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ## code 
-
+https://github.com/jessisam2007/24ADI003L_24BAD049/blob/fa873fcd6fc09731b8d2aef4623a4cce8847b434/SCENARIO%201.py
 
 ## Output
 
