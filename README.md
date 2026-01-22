@@ -57,3 +57,12 @@ https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
 
 # Scenario 4
 
+##  Dataset Used
+The dataset for this project is taken from Kaggle:
+
+**E-commerce Dataset** 
+https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+
+##  Output
+
+![Scenario 1 Output 1](https://github.com/jessisam2007/24ADI003L_24BAD049/blob/cd4a90beefce6990af8ae2e6b2d6e5602977cdc0/SCENARIO%204%20OUTPUT/9f9d6dc5-217d-4c9e-af1e-523d4e9130fc.png)
