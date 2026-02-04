@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/debashis74017/lic-stock-price-data
 https://github.com/jessisam2007/24ADI003L_24BAD049/blob/8ba431c82e3bb4d6a7e0a35c7d1699b33e93db13/Exercise%202/SCENARIO%202.py
 
 ## 📈 Output 1
-![Scenario 2 Output 1](https://github.com/jessisam2007/24ADI003L_24BAD049/blob/eac20fa4c6948378fad34437ad0071c521b1f7d0/Exercise%202/FIGURES%20(outputs)/SCENARIO%202%20OUTPUT/472a47dc-c452-41b0-8dbd-9ec94422fc47.jpg)
+![Scenario 2 Output 1](https://github.com/jessisam2007/24ADI003L_24BAD049/blob/39134958921ffd4f06c25a4e7fb9aa51c4698dc1/Exercise%202/FIGURES%20(outputs)/SCENARIO%202%20OUTPUT/d8f91958-bd9d-45c8-96d7-42cfb72e17ef.jpg)
 
-### Output 2
-![Scenario 2 Output 2](
+### Output 2 and 3
+![Scenario 2 Output 2]( https://github.com/jessisam2007/24ADI003L_24BAD049/blob/eac20fa4c6948378fad34437ad0071c521b1f7d0/Exercise%202/FIGURES%20(outputs)/SCENARIO%202%20OUTPUT/472a47dc-c452-41b0-8dbd-9ec94422fc47.jpg)
