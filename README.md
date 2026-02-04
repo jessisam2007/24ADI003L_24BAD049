@@ -15,4 +15,14 @@ https://github.com/jessisam2007/24ADI003L_24BAD049/blob/e3a3ef8f9c0aa84f736fc5c4
 ![Scenario 1 Output 1](https://github.com/jessisam2007/24ADI003L_24BAD049/blob/fd6657a7a4453491514b308a8543e460e25e1a1d/Exercise%202/FIGURES%20(outputs)/SCENARIO%201%20OUTPUT/c01bbdf8-2687-4b1f-a932-c4bc2d7d2402.jpg)
 
 ### Output 2
-![Scenario 1 Output 2](
+![Scenario 1 Output 2](https://github.com/jessisam2007/24ADI003L_24BAD049/blob/7e0da44b5d13f3bbc1979e0c9d8d8c8f48468e60/Exercise%202/FIGURES%20(outputs)/SCENARIO%201%20OUTPUT/c13cbf7f-9167-4997-8e89-98f2d71049fb.jpg)
+
+# SCENARIO 2
+## 📊 Dataset Used
+The dataset for this project is taken from *Kaggle*:
+
+🔗 *LIC Stock Price Dataset*  
+https://www.kaggle.com/datasets/debashis74017/lic-stock-price-data
+
+## Code 
+
