@@ -25,4 +25,7 @@ The dataset for this project is taken from *Kaggle*:
 https://www.kaggle.com/datasets/debashis74017/lic-stock-price-data
 
 ## Code 
+https://github.com/jessisam2007/24ADI003L_24BAD049/blob/8ba431c82e3bb4d6a7e0a35c7d1699b33e93db13/Exercise%202/SCENARIO%202.py
 
+## 📈 Output
+![Scenario 1 Output 1](
